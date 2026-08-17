@@ -1,0 +1,9 @@
+NOTICE — content-creation
+
+Source: Anthropic Knowledge-Work
+Repository: https://github.com/anthropics/knowledge-work-plugins
+License: Apache-2.0
+
+This item is redistributed under its original Apache-2.0 license.
+The full license text is included in this archive as LICENSE.
+Original copyright and permission notices are retained.

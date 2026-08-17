@@ -1,0 +1,9 @@
+NOTICE — linkedin
+
+Source: hyperfx-ai/marketing-skills
+Repository: https://github.com/hyperfx-ai/marketing-skills
+License: MIT
+
+This item is redistributed under its original MIT license.
+The full license text is included in this archive as LICENSE.
+Original copyright and permission notices are retained.
