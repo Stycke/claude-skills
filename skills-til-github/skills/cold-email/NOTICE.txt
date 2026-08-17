@@ -1,0 +1,9 @@
+NOTICE — cold-email
+
+Source: alirezarezvani/claude-skills
+Repository: https://github.com/alirezarezvani/claude-skills
+License: MIT
+
+This item is redistributed under its original MIT license.
+The full license text is included in this archive as LICENSE.
+Original copyright and permission notices are retained.
